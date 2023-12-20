@@ -1,0 +1,6 @@
+@Back2Basics_HostAddress = http://localhost:5291
+
+GET {{Back2Basics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
